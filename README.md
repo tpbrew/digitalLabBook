@@ -1,2 +1,22 @@
 # digitalLabBook
 ResBaz 2019, making a digital lab notebook
+
+“# “ makes the following text a header. Extra #’s makes the header smaller.
+
+# Header
+
+## Header
+
+### Header
+
+###### Sixth (smallest) Header
+
+---
+Type lots of "-" to give a horizontal line
+
+_____
+Or, lots of "_"
+
+Need to hit "commit changes" down the bottom of page to save changes.
+
+
