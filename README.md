@@ -1,22 +1,24 @@
 # digitalLabBook
 ResBaz 2019, making a digital lab notebook
 
-“# “ makes the following text a header. Extra #’s makes the header smaller.
 
-# Header
+-----
+# Link some of the files here
+Link name first (square bracket), then what you're linking in (round bracket).
 
-## Header
+Note that the file name can't have spaces in it.
 
-### Header
+[Notes about basic formatting](Basic_formatting)
 
-###### Sixth (smallest) Header
+[Notes about text formatting](text_stuff.md)
 
----
-Type lots of "-" to give a horizontal line
+[Notes about making lists and bullet points](lists_and_bullet.md)
 
-_____
-Or, lots of "_"
+[Notes about tables](tables.md)
 
-Need to hit "commit changes" down the bottom of page to save changes.
+
+-----
+
+
 
 
