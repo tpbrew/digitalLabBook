@@ -21,5 +21,9 @@ Link to [Awesome Protocol 1](Methods/New_Protocol1.md)
 -----
 
 
+## Embedding images:
 
+Name in square brackets optional, link to image in round brackets.
+
+![]()
 
